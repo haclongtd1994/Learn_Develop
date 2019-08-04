@@ -27,8 +27,8 @@ while(True):
         #reconize ? deep learning model predict keras tensorflow pytourch scikit learn
         id_, conf = recognize.predict(roi_gray)
         if conf>=45:
-            #print(id_)
-            #print(labels[id_])
+            print(id_)
+            print(labels[id_])
             font = cv2.FONT_HERSHEY_SIMPLEX
             name = labels[id_]
             color = (255,255,255)
